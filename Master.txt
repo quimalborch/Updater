@@ -11,4 +11,5 @@
 <End of Version>
 
 <Version: 1.04>
+/js/plugins/SRD_AutoUpdater.json https://raw.githubusercontent.com/quimalborch/Updater/main/SRD_AutoUpdater.js
 <End of Version>
