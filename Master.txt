@@ -5,3 +5,7 @@
 <Version: 1.02>
 /data/Map002.json https://raw.githubusercontent.com/quimalborch/Updater/main/Map002.json
 <End of Version>
+
+<Version: 1.03>
+/js/plugins/SRD_AutoUpdater.json https://raw.githubusercontent.com/quimalborch/Updater/main/SRD_AutoUpdater.js
+<End of Version>
