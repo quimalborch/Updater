@@ -1,4 +1,4 @@
-# Actualizador - Updater //Monster Village
+# Actualizador - Updater // Monster Village
 
 Spanish:
 
